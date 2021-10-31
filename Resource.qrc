@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>user-info-icon.png</file>
+        <file>Files-icon.png</file>
+        <file>Files-Clipboard-icon.png</file>
+        <file>File-New-icon.png</file>
+        <file>Document-Write-icon.png</file>
+        <file>Documents-icon.png</file>
+        <file>Document-Copy-icon.png</file>
+        <file>delete-icon.png</file>
+        <file>Actions-edit-cut-icon.png</file>
+        <file>Actions-document-save-all-icon.png</file>
+        <file>2-Hot-Printer-icon.png</file>
+        <file>undo-icon.png</file>
+        <file>redo-icon.png</file>
+        <file>Zoom-Out-icon (1).png</file>
+        <file>Zoom-In-icon.png</file>
+    </qresource>
+</RCC>
